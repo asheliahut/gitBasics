@@ -9,6 +9,7 @@
 * Git Reset: https://asciinema.org/a/IbkWOEIdsZmV5Cye5q1hDzOXh
 * Branching: https://asciinema.org/a/RoLwvVQ2CWj5pgO6TKM10OBu8
 * Pulling: https://asciinema.org/a/FYOsgXMsTaNpZwC03atNAjrm9
+* Git Ignore: https://asciinema.org/a/BI2R9ntmQBOkii6X5HG9Z1VC1
 
 ## Workflows
 https://lucamezzalira.com/2014/03/10/git-flow-vs-github-flow/
