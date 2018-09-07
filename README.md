@@ -19,3 +19,6 @@ https://medium.freecodecamp.org/git-rebase-and-the-golden-rule-explained-70715ec
 
 ## More learning GIt resources:
 https://try.github.io/
+
+## Feel free to test your forking
+Feel free to fork and make fun changes and make Pull requests against the repo!
