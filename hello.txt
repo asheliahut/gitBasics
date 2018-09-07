@@ -1,5 +1,4 @@
 Adding some text to check the diff with more details
-Other text here too
 
 
 
