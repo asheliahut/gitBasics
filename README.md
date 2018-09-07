@@ -1,5 +1,13 @@
 # gitBasics
 
+## GUI Clients:
+* https://www.sourcetreeapp.com/
+* https://www.gitkraken.com/
+* https://git-scm.com/downloads/guis
+
+## Diff tools
+* https://www.kaleidoscopeapp.com/
+
 ## Asciinemas
 
 * The Basics: https://asciinema.org/a/SFEJ0r32xtyhpa5Mdg6GoTpJG
